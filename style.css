@@ -650,4 +650,34 @@ display: none;
 .pagebreak {
 page-break-before: always;
 }
+
+.content {
+  float: left;
+}
+}
+
+.project-photo-container {
+  display: block;
+  float: left;
+  width: 100px;
+  color: green;
+  height: 100px;
+  overflow: hidden;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px #f0f0f0;
+
+
+}
+
+.project-pic {
+  width: 100%;
+  /*border-radius: 50%;*/
+  length: auto;
+}
+
+.links-container {
+  margin-left: 20px;
+  display: inline;
 }
