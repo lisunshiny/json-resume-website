@@ -681,3 +681,6 @@ page-break-before: always;
   margin-left: 20px;
   display: inline;
 }
+.fa {
+  width: 19px;
+}
